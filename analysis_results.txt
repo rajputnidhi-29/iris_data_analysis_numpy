@@ -1,0 +1,7 @@
+IRIS DATASET ANALYSIS
+
+Total Flowers : 150
+Total Features : 4
+Species : ['Iris-setosa' 'Iris-versicolor' 'Iris-virginica']
+Average Sepal Length : 5.843333333333334
+Average Petal Length : 3.758666666666666
